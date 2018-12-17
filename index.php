@@ -33,7 +33,7 @@
                                 <img src="images/bullet.png" alt="O que vou aprender nesse e-book?" title="O que vou aprender nesse e-book?"/>
                             </div>
                             <div class="bullet">
-                                <h2>Os 5 passos para planejar um negócio digital, mesmo sem ter um produto ou audiência!</h2>
+                                <h2>O passo a passo para começar a utilizar o GIT e versionar os seu projetos!!</h2>
                             </div>
                         </article>
                     <?php } ?>
